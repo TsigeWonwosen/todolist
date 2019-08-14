@@ -6,7 +6,7 @@ This is a sample react todo app done step-by-step
 
 First clone this repository.
 ```
-1.git clone https://github.com/kabirbaidhya/react-todo-app.git
+1.git clone https://github.com/TsigeWonwosen/todolist.git
 ```
 Install dependencies. Make sure you already have nodejs & npm installed in your system.
 ```
