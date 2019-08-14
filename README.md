@@ -1,8 +1,8 @@
-#React Todo App
+#React Todo App#
 
 This is a sample react todo app done step-by-step
 
-##Instructions
+##Instructions##
 
 First clone this repository.
 ```
@@ -12,7 +12,8 @@ Install dependencies. Make sure you already have nodejs & npm installed in your 
 ```
 $ npm install # or yarn
 ```
-###start 
-``
+###start ###
+
+```
 $ npm start
 ```
